@@ -1,0 +1,3 @@
+[submodule "themes/apoyo-hugo"]
+	path = themes/apoyo-hugo
+	url = https://github.com/apoya-sw/apoyo-hugo
