@@ -1,0 +1,36 @@
+enable  : true
+title   : "Our values"
+subtitle: "What you can expect from us"
+testimonial_item :
+  - thumb : "images/values/thumb-one.png"
+    name  : "Compassion"
+    company_position: " "
+    quote : > 
+            By attentively and empathetically listening to others' struggles and approaching them with a compassionate and receptive attitude, we exhibit acts of kindness that demonstrate our empathy. 
+
+  - thumb : "images/values/thumb-two.png"
+    name  : "Connection"
+    company_position: " "
+    quote : > 
+            Our emphasis on establishing relationships is rooted in the importance we place on creating meaningful connections with others, and ensuring that they feel recognized, understood, and appreciated. 
+
+  - thumb : "images/values/thumb-three.png"
+    name  : "Purpose"
+    company_position: " "
+    quote : > 
+            Having a clear sense of purpose and intention is the driving force behind our work. It is through this purpose and intention that we are able to facilitate transformation and bring about meaningful change in both our personal and professional lives.
+  - thumb : "images/values/thumb-three.png"
+    name  : "Integrity"
+    company_position: " "
+    quote : > 
+            Integrity is of paramount importance to us, and we are firmly dedicated to upholding the principles of honesty, transparency, and accountability in all that we do.
+  - thumb : "images/values/thumb-four.png"
+    name  : "Respect"
+    company_position: " "
+    quote : > 
+            We hold a deep appreciation for the uniqueness and variety of individuals, and prioritize cultivating an environment of mutual respect and understanding.
+  - thumb : "images/values/thumb-five.png"
+    name  : "Apoyo"
+    company_position: " "
+    quote : > 
+            "Apoyo" is a Spanish word that translates to "support" or "aid". It is the act of providing assistance, help, or resources to someone in need. Emotional support, financial assistance, or practical help, it is often given to individuals or groups to overcome challenges or achieve their goals. "Apoyo" can refer to the encouragement and care provided to friends or family members during difficult times or it can refer to the resources, mentorship, or guidance provided in professional relationships to help them grow and succeed in their roles. 
