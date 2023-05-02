@@ -1,6 +1,6 @@
 baseURL       = "/"
 languageCode  = "en-us"
-title         = "thrive-sw | NDIS | Social World"
+title         = "Apoyo Social Work"
 theme         = "apoyo-hugo"
 summarylength = 25
 
@@ -9,7 +9,7 @@ summarylength = 25
   # Navbar Menus
   [[menu.nav]]
     name    = "Home"
-    url     = ""
+    url     = "/"
     weight  = 1
   [[menu.nav]]
     name    = "About"
@@ -33,10 +33,10 @@ summarylength = 25
   logo = "images/logo.png"
   dateFormat = "26 FEB 1994"
   # Meta data
-  description = "thrive-sw"
-  author = "thrive-sw"
+  description = "Apoyo-sw"
+  author = "paperclipmaximizer"
   
-  googleAnalitycsID = "Your ID"
+  googleAnalitycsID = "G-7RF3VMSRTV"
   fabform  = "https://fabform.io/f/0mD6YsW"
 
   # Contact Form
