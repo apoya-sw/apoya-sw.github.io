@@ -4,20 +4,20 @@
 }
 
 .btn-primary:hover {
-  background: #994f75
+  background: #994f75;
 }
 
 .btn-secondary {
-  background: #3d4a49;
+  background: #994f75;
   color: #fff
 }
 
 .btn-secondary:hover {
-  background: #576b69
+  background: #905d88;
 }
 
 body {
-  background: #102f31
+  background: #102f31;
 }
 
   .site-project-header {
@@ -162,6 +162,6 @@ body {
   overflow: hidden;
 }
 .site-team {
-  background: #324b38;
+  background: #e79563;
   padding:100px 0
  }
