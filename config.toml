@@ -66,11 +66,11 @@ summarylength = 25
   [params.banner]
     enable                = true
     background_image      = "images/backgrounds/background.jpg"
-    heading               = "NDIS, Providers, etc"
-    tagline               = "active support of an idea or cause"
+    heading               = "Social Work Services"
+    tagline               = "NDIS, Vocational Rehabilitation, EAP, Therapeutic Support & Counselling."
     primary_button        = "Book appointment"
     primary_button_url    = "contact"
-    secondary_button      = "Make referral"
+    secondary_button      = "Make a referral"
     secondary_button_url  = "contact"
 
   [params.portfolio]
