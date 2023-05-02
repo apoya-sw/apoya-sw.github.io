@@ -33,7 +33,7 @@ summarylength = 25
   logo = "images/logo.png"
   dateFormat = "26 FEB 1994"
   # Meta data
-  description = "Apoyo-sw"
+  description = "apoyo-sw"
   author = "paperclipmaximizer"
   
   googleAnalitycsID = "G-7RF3VMSRTV"
