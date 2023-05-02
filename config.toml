@@ -37,7 +37,7 @@ summarylength = 25
   author = "thrive-sw"
   
   googleAnalitycsID = "Your ID"
-  fabform  = "https://formspree.io/f/xpzekvlb"
+  fabform  = "https://fabform.io/f/0mD6YsW"
 
   # Contact Form
   [params.contactForm]
@@ -92,7 +92,7 @@ summarylength = 25
     [params.footer.contactInfo]
       title   = "Contact Info"
       address = "Hobart, Tasmania"
-      phone   = "0412345678"
+      phone   = "-"
       email   = "info@apoyo.com.au"
       # Footer Sitemap
       [params.footer.sitemap]
