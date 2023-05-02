@@ -58,7 +58,7 @@ body {
     padding: 0;
     margin: 0;
     img{
-      max-width: 78px;
+      max-width: none;
     }
   }
   .nav-item{
@@ -165,3 +165,7 @@ body {
   background: #e79563;
   padding:100px 0
  }
+
+ .site-navigation .navbar-brand img {
+  max-width: none;
+}
