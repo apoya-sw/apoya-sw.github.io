@@ -170,3 +170,7 @@ body {
  .site-navigation .navbar-brand img {
   max-width: none;
 }
+.site-contact {
+  padding:150px 0 100px;
+  background:#2a3629;
+ }
