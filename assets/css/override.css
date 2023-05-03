@@ -22,7 +22,7 @@ body {
 
   .site-project-header {
     padding: 170px 0 100px;
-    background: #866d82
+    background: #324b38
 }
 
 .site-counter {
@@ -203,5 +203,9 @@ p {
  .site-expertise {
   padding:100px 0;
   background:#1e2841;
+ }
+.site-project-single-section {
+  padding:250px 0 100px;
+  background: #d3bebe;
  }
  
