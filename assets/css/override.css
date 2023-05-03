@@ -174,3 +174,17 @@ body {
   padding:150px 0 100px;
   background:#2a3629;
  }
+
+ .site-about-header {
+  padding-top:80px;
+  background-color:#1e2841;
+ }
+ .site-about-company {
+  background:#1e2841;
+  width:40%;
+  padding:70px 38px
+ }
+ .site-expertise {
+  padding:100px 0;
+  background:#1e2841;
+ }
