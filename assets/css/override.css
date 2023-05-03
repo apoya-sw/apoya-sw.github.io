@@ -11,7 +11,13 @@
   background: #994f75;
   color: #fff
 }
-
+.btn {
+  font-family:montserrat,sans-serif;
+  border:none;
+  color:#fff!important;
+  padding:40px 90px;
+  border-radius:20;
+ }
 .btn-secondary:hover {
   background: #905d88;
 }
