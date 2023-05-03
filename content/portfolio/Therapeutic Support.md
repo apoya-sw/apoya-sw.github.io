@@ -2,7 +2,7 @@
 title: "Therapeutic Support"
 date: 2019-12-23T15:56:43+06:00
 type: portfolio
-image: ""
+image: "images/services/therapeuticsupport.png"
 category: [""]
 project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
 ---

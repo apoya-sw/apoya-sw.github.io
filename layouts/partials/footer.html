@@ -43,14 +43,15 @@
       </div>
       {{ end }}
       {{ with .Site.Params.footer.service }}
-      <div class="col-lg-3 col-md-6">
+      <div class="col-lg-4 col-md-6">
         <div class="site-footer-widget">
-          <h5 class="site-footer-widget-title">{{ .title }}</h5>
+          <!--<h5 class="site-footer-widget-title">{{ .title }}</h5>-->
           <img alt="Registered NDIS Provider" class="attachment-large size-large wp-image-285 lazyloaded" src="/images/We-Heart-NDIS_2020.svg" width="90" height="90">
           <img alt="Registered Member AASW" class="attachment-large size-large wp-image-285 lazyloaded" src="/images/aasw2.png" width="150" height="140">
           <img alt="Registered AORC" class="attachment-large size-large wp-image-285 lazyloaded" src="/images/asorc.png" width="75" height="90">
+          <img alt="LGBTIQ, First Nations flags image" class="attachment-large size-large wp-image-285 lazyloaded" src="/images/flags-footer.png" width="300" height="60">
           <p class="site-footer-widget-description">
-            <img alt="LGBTIQ, First Nations flags image" class="attachment-large size-large wp-image-285 lazyloaded" src="/images/flags-footer.png" width="150" height="30">
+            
             {{ .description | safeHTML }}
           </p>
         </div>
@@ -69,7 +70,7 @@
       <div class="col-12">
         <div class="site-footer-copyright">
           <p>Apoyo acknowledges and pays respect to the past, present and future Traditional Custodians and Elders of this nation and the continuation of cultural, spiritual and educational practices of Aboriginal and Torres Strait Islander peoples. We acknowledge that sovereignty was never ceded. </p>
-          <p>© Copyright {{ dateFormat "2006" now }} - <a href="" target="_blank">Apoyo</a> </p>
+          <p>© Copyright {{ dateFormat "2006" now }} - <a href="" target="_blank">Apoyo</a></p>
         </div>
       </div>
     </div>

@@ -1,8 +1,8 @@
 ---
-title: "EAP"
+title: "Employee Assistance Program"
 date: 2019-12-23T15:58:10+06:00
 type: portfolio
-image: ""
+image: "images/services/eap.png"
 category: [""]
 project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
 ---
