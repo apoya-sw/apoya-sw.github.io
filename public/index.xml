@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apoyo Social Work</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Apoyo Social Work</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Dec 2019 20:56:42 +0600</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Finding and Keeping a Job - Employment assessment &amp; coaching</title>
+      <link>//localhost:1313/portfolio/finding-and-keeping-a-job---employment-assessment--coaching/</link>
+      <pubDate>Mon, 23 Dec 2019 20:56:42 +0600</pubDate>
+      <guid>//localhost:1313/portfolio/finding-and-keeping-a-job---employment-assessment--coaching/</guid>
+      <description>&lt;p&gt;We provide tailored support to help individuals find and maintain meaningful employment. Our services include comprehensive employment assessments, career coaching, and practical strategies for building work-related skills and resilience. We aim to enhance confidence, job readiness, and long-term career success.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mentoring</title>
+      <link>//localhost:1313/portfolio/mentoring/</link>
+      <pubDate>Mon, 23 Dec 2019 20:56:42 +0600</pubDate>
+      <guid>//localhost:1313/portfolio/mentoring/</guid>
+      <description>&lt;p&gt;Our mentoring services offer personalized guidance and support to help individuals develop professional and personal skills. Through one-on-one or group sessions, we focus on building confidence, enhancing decision-making abilities, and fostering personal growth. Our mentors provide ongoing encouragement and practical advice to help clients achieve their goals.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Capacity Building &amp; Daily Living Therapy: Social Work, Psychosocial OT, Therapy Assistants &amp; Early Childhood</title>
+      <link>//localhost:1313/portfolio/capacity-building/</link>
+      <pubDate>Mon, 23 Dec 2019 15:58:10 +0600</pubDate>
+      <guid>//localhost:1313/portfolio/capacity-building/</guid>
+      <description>&lt;p&gt;Our capacity-building services support individuals in enhancing their daily living skills and independence. We offer tailored therapies, including social work, psychosocial occupational therapy (OT), and assistance from therapy aides. For young children (under 7 years), our Early Childhood Key Workers provide holistic support to promote development and family engagement.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mental Health Team-Based Support: Supervision, Reflective Practice, and Mentoring</title>
+      <link>//localhost:1313/portfolio/mental-health-team-based-support-work/</link>
+      <pubDate>Mon, 23 Dec 2019 15:58:10 +0600</pubDate>
+      <guid>//localhost:1313/portfolio/mental-health-team-based-support-work/</guid>
+      <description>&lt;p&gt;We provide structured, team-based mental health support, integrating supervision, reflective practice, and mentoring. Our approach fosters professional growth, peer collaboration, and continuous learning within a supportive environment. Supervised sessions focus on improving service quality and building skills to support mental well-being.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Support Coordination Level 2 &amp; 3</title>
+      <link>//localhost:1313/portfolio/support-2-and-3/</link>
+      <pubDate>Mon, 23 Dec 2019 15:56:43 +0600</pubDate>
+      <guid>//localhost:1313/portfolio/support-2-and-3/</guid>
+      <description>&lt;p&gt;Our support coordination services assist individuals in navigating the complexities of their care plans. At Levels 2 and 3, we provide coordination of supports, assistance in building capacity, and guidance on maximizing plan outcomes. Our coordinators work closely with clients to ensure they access the right services and make informed choices.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Psychosocial Recovery Coaching</title>
+      <link>//localhost:1313/portfolio/psychosocial/</link>
+      <pubDate>Mon, 23 Dec 2019 15:44:41 +0600</pubDate>
+      <guid>//localhost:1313/portfolio/psychosocial/</guid>
+      <description>&lt;p&gt;Our recovery coaching empowers individuals with psychosocial disabilities to build independence and resilience. Through collaborative goal-setting and skill development, we support clients in managing challenges, making decisions, and strengthening connections within their community. Coaches provide consistent, strengths-based guidance throughout the recovery journey.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
